@@ -1,0 +1,13 @@
+.src{
+  color: pink;
+  font-size: 16px;
+  font: arial;
+  text-transform: uppercase;
+  position: absolute;
+  padding-left: 50%;
+}
+
+.class{
+  h1{color:green;} h2{color:green;} p{color:green;}
+  .marked p{color:white;}
+}
