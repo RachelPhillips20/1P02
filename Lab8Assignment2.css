@@ -1,0 +1,28 @@
+body{
+  background-color: white;
+}
+.box{
+  border-style: dashed;
+  margin:20px;
+  height:400px;
+  color: purple;
+  text-align: center;
+}
+
+.box2{
+color: green;
+font-size: 10px;
+text-align: center;
+}
+
+.box3{
+  color: orange;
+  vertical-align: super;
+}
+.redTxt{
+  color: red;
+}
+
+.box4{
+  color: purple;
+}
